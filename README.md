@@ -2,6 +2,14 @@
 
 End-to-end Data Analyst portfolio project analyzing e-commerce sales performance, customer behavior, product performance, profitability, and operational performance using SQL, Python, and Power BI.
 
+Disclaimer
+
+This project uses a simulated e-commerce dataset created for portfolio and learning purposes.
+
+The dataset does not represent a real company's confidential data.
+
+The purpose of this project is to demonstrate practical Data Analyst skills including SQL analysis, Python EDA, data modeling, DAX, Power BI dashboard development, and business insight generation.
+
 ## Project Overview
 
 This project analyzes an e-commerce business with:
