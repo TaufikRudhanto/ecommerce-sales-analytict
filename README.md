@@ -2,11 +2,53 @@
 
 End-to-end Data Analyst portfolio project analyzing e-commerce sales performance, customer behavior, product performance, profitability, and operational performance using SQL, Python, and Power BI.
 
-Disclaimer
 
-This project uses a simulated e-commerce dataset created for portfolio and learning purposes.
+## Key Business Insights
 
-The dataset does not represent a real company's confidential data.
+### 1. Revenue and Profitability
+- Completed revenue reached Rp2.56 trillion.
+- Completed profit reached Rp711.45 billion.
+- Overall profit margin was approximately 27.80%.
+
+**Recommendation:** Monitor revenue and profit margin together to ensure revenue growth is supported by healthy profitability.
+
+### 2. Product Performance
+- Category 47 generated the highest revenue and profit among categories.
+- Category 41 had the highest profit margin.
+- Product 769 generated the highest revenue, while Product 577 had the highest profit and profit margin.
+- Product 380 sold the highest quantity, showing that sales volume does not always translate into the highest revenue or profit.
+
+**Recommendation:** Evaluate products using revenue, profit, margin, and quantity together when making product and promotion decisions.
+
+### 3. Customer Analysis
+- 13,415 customers made more than one completed purchase.
+- The customer segment with the highest total revenue was Regular.
+- The customer with the highest revenue did not have the highest number of completed orders.
+
+**Recommendation:** Compare customer value, purchase frequency, and average order value to identify retention and cross-selling opportunities.
+
+### 4. Monthly Revenue
+- August 2024 recorded the highest monthly revenue at approximately Rp112.43 billion.
+- February 2024 recorded the lowest monthly revenue at approximately Rp100.02 billion.
+- The difference was approximately Rp12.41 billion.
+
+**Recommendation:** Investigate order volume, number of customers, average order value, and product mix to understand monthly revenue fluctuations.
+
+### 5. Order and Operations Performance
+- Completed orders accounted for 89.96% of all orders.
+- Cancelled orders accounted for 6.01%.
+- Returned orders accounted for 4.03%.
+- Average delivery duration was approximately 4.01 days.
+
+**Recommendation:** Monitor cancellations, returns, and delivery duration to identify opportunities to improve operational performance.
+
+## Tools and Skills
+- **SQL:** Data validation, joins, aggregations, business analysis, and monthly revenue growth.
+- **Python:** Pandas-based data preparation, exploratory data analysis, and visualization.
+- **Power BI:** Data modeling, DAX measures, KPI cards, interactive dashboards, and business performance monitoring.
+
+## Dataset Disclaimer
+This project uses a simulated dataset created for portfolio and learning purposes. It does not represent confidential data from a real company.
 
 The purpose of this project is to demonstrate practical Data Analyst skills including SQL analysis, Python EDA, data modeling, DAX, Power BI dashboard development, and business insight generation.
 
