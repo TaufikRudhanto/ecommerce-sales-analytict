@@ -294,8 +294,8 @@ ecommerce-sales-analytics/
 │
 ├── python/
 │   └── ecommerce_eda.ipynb
-│
-├── powerbi/
+│   └── generate_dataset.ipynb
+├── power_BI/
 │   └── ecommerce_sales_analytics.pbix
 │
 └── screenshots/
